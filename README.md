@@ -1,2 +1,2 @@
 # Python
-Small projects using python 
+Projects using python 
